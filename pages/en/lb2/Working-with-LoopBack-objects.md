@@ -140,7 +140,7 @@ module.exports = function(Book) {
   Book.remoteMethod(
     'read',
     ...
-  });
+  );
 };
 ```
 
